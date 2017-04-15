@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Moses Palmér <mosespalmer@gmail.com>"]
 
 [dependencies]
+hound = "3.1.0"
+pulse-simple = "1.0.0"
