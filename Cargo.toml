@@ -5,4 +5,5 @@ authors = ["Moses Palmér <mosespalmer@gmail.com>"]
 
 [dependencies]
 hound = "3.1.0"
+num = "0.1.37"
 pulse-simple = "1.0.0"
